@@ -1,0 +1,80 @@
+/* Color Palette
+# - text: #0c1317
+# - background: #ffffff
+# - primary: #6a99af
+# - secondary: #d1a9b7
+# - accent: #bd9584
+*/
+
+/* Global styles 
+------------------------------------*/
+body {
+    color: #0c1317;
+    background: #fcfcff;
+    font-family: "Funnel Sans", sans-serif;
+    font-size: 12pt;
+}
+
+h1 {
+    font-family: "Lexend Exa", sans-serif;
+    font-size: 28pt;
+}
+
+h2 {
+    font-family: "Lexend Exa", sans-serif;
+    font-size: 20pt;
+}
+
+h3 {
+    font-family: "Lexend Exa", sans-serif;
+    font-size: 13pt;
+}
+
+/* Header & Footer 
+------------------------------------*/
+header, footer {
+    background-color: #1f4252;
+    color: #fcfcff
+}
+
+
+
+/* Work Experience
+------------------------------------*/
+.work-exp {
+    /* background-color: #d1c8a9; */
+}
+
+
+
+/* Education
+------------------------------------*/
+
+.edu {
+    background-color: #eda35e;
+}
+
+
+
+/* FONT */
+
+.lexend-exa {
+  font-family: "Lexend Exa", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+.funnel-sans {
+  font-family: "Funnel Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+#pic {
+    width: 150px;
+    border-radius: 50%;
+}
